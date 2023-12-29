@@ -11,7 +11,7 @@
   //"spider":"https://agit.ai/heroaku/TVbox@branch/main/Jar/1013.jar",
  
   
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2hlcm9ha3UvVFZib3hvL3Jhdy9tYWluL3R2L2JjLnR4dA=="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}],"epg": "http://epg.51zmt.top:8000/api/diyp/"}],
 
   "sites":[
 
